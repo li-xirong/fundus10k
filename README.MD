@@ -14,7 +14,7 @@ Basic statistics of Fundus10K are summarized as:
 
 ## Downloads
 
-* [Version 1: image size 448x448](http://lixirong.net/data/accv2018/laser_scar_dataset_448.zip), released on Nov-28-2018: We provide 1) binary labels indicating whether a fundus image has laser scars visible, and 997+80 images with a resolution of 448x448. For the kaggle images, please download them from the [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection) website.
+* [Version 1: image size 448x448](https://goo.gl/forms/rybVQeNSl06pMSyg2), released on Nov-28-2018: We provide 1) binary labels indicating whether a fundus image has laser scars visible, and 997+80 images with a resolution of 448x448. For the kaggle images, please download them from the [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection) website.
 
 ## State-of-the-art 
 
